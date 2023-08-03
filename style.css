@@ -142,7 +142,7 @@ body {
 }
 
 .featured-contend {
-    background: url("img/spiderman.jpg");
+    background: url("spiderman.jpg");
     padding: 50px;
     height: calc(100vh - 160px);
     background-size: 100% 100%;
